@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-10-09 12:14:57.121578 by generateParkingAreas.py v1_14_1+0000-f654d7b963e
+<configuration>
+    <edge-type.remove value="highway.motorway,highway.motorway_link"/>
+    <keep-all value="True"/>
+    <net-file value="Eindhoven.net.xml"/>
+    <output-file value="Eindhoven.parking_add.xml"/>
+    <random-capacity value="True"/>
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <parkingArea id="pa0" lane="-84297203_0" roadsideCapacity="200" length="5"/>
+    <parkingArea id="pa1" lane="409280068#1_0" roadsideCapacity="200" length="5"/>
+    <parkingArea id="pa2" lane="999248590_0" roadsideCapacity="200" length="5"/>
+</additional>
